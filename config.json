@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "gulu",
+      "key": "gulu3",
       "name": "咕噜咕噜",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@main/gulu2.py",
+      "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@main/gulu3.py",
       "searchable": 1,
       "quickSearch": 1,
       "ext": ""
