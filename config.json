@@ -8,6 +8,42 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": ""
+    },
+    {
+      "key": "duoduo",
+      "name": "多多",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@main/duoduo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "hongguo",
+      "name": "红果修复",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@main/hongguo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "yangshipin",
+      "name": "央视频",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@main/yangshipin.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "yingtan4k",
+      "name": "影探4K",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@main/yingtan4k.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": ""
     }
   ]
 }
