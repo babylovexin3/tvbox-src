@@ -1,0 +1,12 @@
+{
+  "sites": [
+    {"key": "gulu3", "name": "咕噜咕噜", "type": 3, "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@d196c01e344b9fe00e42c988aeba16c78ebe6298/gulu3.py", "searchable": 1, "quickSearch": 1, "ext": ""},
+    {"key": "duoduo", "name": "多多", "type": 3, "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@d196c01e344b9fe00e42c988aeba16c78ebe6298/duoduo.py", "searchable": 1, "quickSearch": 1, "ext": ""},
+    {"key": "hongguo", "name": "红果修复", "type": 3, "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@d196c01e344b9fe00e42c988aeba16c78ebe6298/hongguo.py", "searchable": 1, "quickSearch": 1, "ext": ""},
+    {"key": "yangshipin", "name": "央视频", "type": 3, "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@d196c01e344b9fe00e42c988aeba16c78ebe6298/yangshipin.py", "searchable": 1, "quickSearch": 1, "ext": ""},
+    {"key": "yingtan4k", "name": "影探4K", "type": 3, "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@d196c01e344b9fe00e42c988aeba16c78ebe6298/yingtan4k.py", "searchable": 1, "quickSearch": 1, "ext": ""},
+    {"key": "pingguo", "name": "苹果源", "type": 3, "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@d196c01e344b9fe00e42c988aeba16c78ebe6298/pingguo.py", "searchable": 1, "quickSearch": 1, "ext": ""},
+    {"key": "juzhi", "name": "橘汁视频", "type": 3, "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@d196c01e344b9fe00e42c988aeba16c78ebe6298/juzhi.py", "searchable": 1, "quickSearch": 1, "ext": ""},
+    {"key": "fengye4k", "name": "新枫叶4K", "type": 3, "api": "https://cdn.jsdelivr.net/gh/babylovexin3/tvbox-src@d196c01e344b9fe00e42c988aeba16c78ebe6298/fengye4k.py", "searchable": 1, "quickSearch": 1, "ext": ""}
+  ]
+}
